@@ -15,7 +15,6 @@
 
 📚 Strong understanding of machine learning concepts and workflows.
 
-
 <br>
 
 # 💻 Tech Stack:
