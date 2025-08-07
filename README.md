@@ -9,7 +9,7 @@
 
 🐍 Proficient in Python and C++ programming languages
 
-📊 Skilled in data visualization using Python libraries (e.g., Matplotlib, Seaborn) and Power BI
+📊 Skilled in data visualization using Python libraries 
 
 🔍 Familiar with data analysis and manipulation using Python tools
 
